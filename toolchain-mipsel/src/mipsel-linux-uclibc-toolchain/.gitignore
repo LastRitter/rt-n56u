@@ -1,0 +1,7 @@
+binutils-2.24/
+build-binutils/
+build-gcc-bootstrap-cpp/
+build-gcc-bootstrap/
+gcc-4.4.7/
+include/
+uClibc-0.9.33.2/

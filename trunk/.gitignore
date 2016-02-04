@@ -5,6 +5,8 @@
 *.pc
 *.lo
 *.o
+*.d
+*.so
 *.o.cmd
 *.la
 *.a
@@ -24,3 +26,9 @@ stamp-h1
 /images/*
 /stage
 /stage/*
+/user
+/tools
+/libs
+/linux-*
+
+
